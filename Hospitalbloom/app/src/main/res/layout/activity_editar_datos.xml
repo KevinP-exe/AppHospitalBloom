@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_editar_datos">
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="800dp"
+                android:text="TextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="168dp"
+                android:layout_height="178dp"
+                app:srcCompat="@drawable/img_6"
+                tools:layout_editor_absoluteX="-16dp"
+                tools:layout_editor_absoluteY="-11dp" />
+
+            <ImageView
+                android:id="@+id/imageView18"
+                android:layout_width="163dp"
+                android:layout_height="282dp"
+                app:srcCompat="@drawable/img_3"
+                tools:layout_editor_absoluteX="271dp"
+                tools:layout_editor_absoluteY="-2dp" />
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="174dp"
+                android:layout_height="161dp"
+                app:srcCompat="@drawable/img_10"
+                tools:layout_editor_absoluteX="-15dp"
+                tools:layout_editor_absoluteY="574dp" />
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="165dp"
+                android:layout_height="180dp"
+                app:srcCompat="@drawable/img_10"
+                tools:layout_editor_absoluteX="-29dp"
+                tools:layout_editor_absoluteY="583dp" />
+
+            <ImageView
+                android:id="@+id/imageView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:layout_editor_absoluteX="137dp"
+                tools:layout_editor_absoluteY="138dp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <ImageView
+                android:id="@+id/imageView22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/img_13"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <Button
+                android:id="@+id/btn_editar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#288CE8"
+                android:text="Editar"
+                tools:layout_editor_absoluteX="271dp"
+                tools:layout_editor_absoluteY="574dp" />
+
+            <Button
+                android:id="@+id/btn_eliminar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#E53935"
+                android:text="Eliminar"
+                tools:layout_editor_absoluteX="265dp"
+                tools:layout_editor_absoluteY="631dp" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

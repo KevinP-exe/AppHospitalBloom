@@ -13,6 +13,15 @@
         android:theme="@style/Theme.HospitalBloom"
         tools:targetApi="31">
         <activity
+            android:name=".activity_editar_pacientes"
+            android:exported="false" />
+        <activity
+            android:name=".activity_editar_datos"
+            android:exported="false" />
+        <activity
+            android:name=".activity_registro_agregado"
+            android:exported="false" />
+        <activity
             android:name=".activity_agregar_paciente"
             android:exported="false" />
         <activity

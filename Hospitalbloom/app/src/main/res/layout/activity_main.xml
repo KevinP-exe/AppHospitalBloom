@@ -62,10 +62,10 @@
                 android:layout_marginStart="83dp"
                 android:layout_marginEnd="83dp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.514"
+                app:layout_constraintHorizontal_bias="0.885"
                 app:layout_constraintStart_toStartOf="parent"
                 app:srcCompat="@drawable/img"
-                tools:layout_editor_absoluteY="190dp" />
+                tools:layout_editor_absoluteY="140dp" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -80,24 +80,22 @@
                 android:textSize="20sp"
                 app:layout_constraintBottom_toTopOf="@+id/btnComenzar"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent" />
 
             <Button
                 android:id="@+id/btnComenzar"
                 android:layout_width="156dp"
                 android:layout_height="69dp"
-                android:layout_marginStart="153dp"
-                android:layout_marginTop="600dp"
+                android:layout_marginStart="111dp"
+                android:layout_marginTop="275dp"
                 android:layout_marginEnd="142dp"
-                android:layout_marginBottom="80dp"
                 android:backgroundTint="#288CE8 "
                 android:text="Comenzar"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.642"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView4" />
+                app:layout_constraintTop_toBottomOf="@+id/imageView" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

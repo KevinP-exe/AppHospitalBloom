@@ -24,7 +24,7 @@
                 android:layout_width="164dp"
                 android:layout_height="48dp"
                 android:layout_marginStart="13dp"
-                android:layout_marginTop="72dp"
+                android:layout_marginTop="24dp"
                 android:layout_marginEnd="29dp"
                 android:background="#288CE866"
                 android:ems="10"
@@ -79,7 +79,6 @@
                 android:layout_marginEnd="36dp"
                 android:text="Hora de aplicacion:"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/txt_habitacion"
                 app:layout_constraintEnd_toStartOf="@+id/txt_hora_aplicacion"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/txt_medicamento" />
@@ -127,13 +126,16 @@
                 android:layout_width="144dp"
                 android:layout_height="35dp"
                 android:layout_marginStart="44dp"
+                android:layout_marginTop="12dp"
                 android:layout_marginEnd="49dp"
+                android:layout_marginBottom="41dp"
                 android:background="#288CE866"
                 android:ems="10"
                 android:inputType="date"
+                app:layout_constraintBottom_toTopOf="@+id/txt_enfermedad"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/txt_edad"
-                tools:layout_editor_absoluteY="321dp" />
+                app:layout_constraintTop_toBottomOf="@+id/textView9" />
 
             <TextView
                 android:id="@+id/textView9"
@@ -154,9 +156,11 @@
                 android:layout_height="36dp"
                 android:layout_marginStart="32dp"
                 android:layout_marginTop="16dp"
+                android:layout_marginBottom="40dp"
                 android:background="#288CE866"
                 android:ems="10"
                 android:inputType="number"
+                app:layout_constraintBottom_toTopOf="@+id/txt_enfermedad"
                 app:layout_constraintEnd_toStartOf="@+id/txt_fecha_nacimiento"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
@@ -167,16 +171,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="60dp"
+                android:layout_marginTop="113dp"
+                android:layout_marginEnd="113dp"
                 android:text="Edad:"
                 android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/textView9"
                 app:layout_constraintStart_toStartOf="parent"
-                tools:layout_editor_absoluteY="285dp" />
+                app:layout_constraintTop_toBottomOf="@+id/imageView23" />
 
             <EditText
                 android:id="@+id/txt_apellidos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="96dp"
+                android:layout_marginStart="100dp"
                 android:layout_marginEnd="6dp"
                 android:background="#288CE866"
                 android:ems="10"
@@ -186,7 +193,7 @@
                 app:layout_constraintEnd_toStartOf="@+id/imageView9"
                 app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent"
-                tools:layout_editor_absoluteY="202dp" />
+                tools:layout_editor_absoluteY="209dp" />
 
             <EditText
                 android:id="@+id/txt_nombres"
@@ -195,7 +202,7 @@
                 android:layout_marginStart="96dp"
                 android:layout_marginTop="48dp"
                 android:layout_marginEnd="7dp"
-                android:layout_marginBottom="70dp"
+                android:layout_marginBottom="40dp"
                 android:background="#288CE866"
                 android:ems="10"
                 android:hint="Nombres"
@@ -213,11 +220,15 @@
                 android:id="@+id/textView7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="84dp"
+                android:layout_marginEnd="34dp"
                 android:text="Editar Datos"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                tools:layout_editor_absoluteX="149dp"
-                tools:layout_editor_absoluteY="95dp" />
+                app:layout_constraintEnd_toStartOf="@+id/imageView24"
+                app:layout_constraintStart_toEndOf="@+id/imageView23"
+                app:layout_constraintTop_toTopOf="parent" />
 
             <TextView
                 android:id="@+id/textView12"
@@ -236,6 +247,23 @@
                 android:text="Guardar cambios"
                 tools:layout_editor_absoluteX="126dp"
                 tools:layout_editor_absoluteY="687dp" />
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="165dp"
+                android:layout_height="172dp"
+                app:layout_constraintEnd_toStartOf="@+id/textView7"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/img_14" />
+
+            <ImageView
+                android:id="@+id/imageView24"
+                android:layout_width="116dp"
+                android:layout_height="245dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/img_7" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

@@ -15,6 +15,27 @@
         android:theme="@style/Theme.HospitalBloom"
         tools:targetApi="31">
         <activity
+            android:name=".VerRecetas"
+            android:exported="false" />
+        <activity
+            android:name=".CardRecetas"
+            android:exported="false" />
+        <activity
+            android:name=".CardPacientes"
+            android:exported="false" />
+        <activity
+            android:name=".CardPaciente"
+            android:exported="false" />
+        <activity
+            android:name=".AgregarReceta"
+            android:exported="false" />
+        <activity
+            android:name=".AgregarMedicamento"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
             android:name=".activity_edicion_echa"
             android:exported="false" />
         <activity

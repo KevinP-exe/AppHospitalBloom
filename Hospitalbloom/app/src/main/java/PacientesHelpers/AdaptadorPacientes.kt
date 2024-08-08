@@ -18,7 +18,7 @@ import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
 
-class AdaptadorPacientes(private var Datos: List<tbPacientes>) : RecyclerView.Adapter<ViewHolderPacientes>() {
+class AdaptadorPacientes(private var Datos: List<tbPacientesInfo>) : RecyclerView.Adapter<ViewHolderPacientes>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolderPacientes {
         val vista = LayoutInflater.from(parent.context)

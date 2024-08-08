@@ -145,7 +145,7 @@ class activity_agregar_paciente : AppCompatActivity() {
                         withContext(Dispatchers.Main) {
                             Toast.makeText(
                                 this@activity_agregar_paciente, // Use this@activity_agregar_paciente instead of requireContext()
-                                "Cita agendada exitosamente.",
+                                "Paciente agregado exitosamente.",
                                 Toast.LENGTH_SHORT
                             ).show()
                         }
@@ -153,7 +153,7 @@ class activity_agregar_paciente : AppCompatActivity() {
                         withContext(Dispatchers.Main) {
                             Toast.makeText(
                                 this@activity_agregar_paciente, // Use this@activity_agregar_paciente instead of requireContext()
-                                "Error al agendar la cita: ${e.message}",
+                                "Error al agregar el paciente: ${e.message}",
                                 Toast.LENGTH_LONG
                             ).show()
                         }

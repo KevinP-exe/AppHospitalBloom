@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_card_pacientes.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_card_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_registro_agregado.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_registro_agregado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_13.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_borrar1.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\borrar1.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_editar_pacientes.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_editar_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_agregar_paciente.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_agregar_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_15.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_pacientes.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_configuracion_citas.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\configuracion_citas.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_16.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_edicion_echa.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_edicion_echa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_14.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_eliminar.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_eliminar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\daemon\\8.7\\Kevin.Doris.hospitalbloom.app-main-33:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,9 @@
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\Modelo\ClaseConexion.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\PacientesHelpers\tbPacientes.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\Kevin\Doris\hospitalbloom\activity_pacientes.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\PacientesHelpers\AdaptadorPacientes.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\PacientesHelpers\ViewHolderPacientes.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\Kevin\Doris\hospitalbloom\card_pacientes.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\Kevin\Doris\hospitalbloom\MainActivity.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\Kevin\Doris\hospitalbloom\activity_agregar_paciente.kt
+C:\Users\Kevin\Desktop\AppHospitalBloom\Hospitalbloom\app\src\main\java\PacientesHelpers\tbPacientesInfo.kt

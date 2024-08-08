@@ -71,12 +71,21 @@
                 app:srcCompat="@drawable/img_7" />
 
             <EditText
+<<<<<<<< HEAD:Hospitalbloom/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/activity_agregar_paciente.xml
                 android:id="@+id/txt_nombres"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
                 android:layout_marginEnd="7dp"
                 android:layout_marginBottom="70dp"
+========
+                android:id="@+id/txt_cama"
+                android:layout_width="164dp"
+                android:layout_height="48dp"
+                android:layout_marginStart="13dp"
+                android:layout_marginEnd="29dp"
+                android:layout_marginBottom="148dp"
+>>>>>>>> origin/main:Hospitalbloom/app/src/main/res/layout/activity_editar_pacientes.xml
                 android:background="#288CE866"
                 android:ems="10"
                 android:hint="Nombres"
@@ -101,6 +110,7 @@
                 android:hint="Apellidos"
                 android:inputType="text"
                 android:textStyle="bold"
+<<<<<<<< HEAD:Hospitalbloom/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/activity_agregar_paciente.xml
                 app:layout_constraintEnd_toStartOf="@+id/imageView9"
                 app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent"
@@ -223,20 +233,24 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/textView10"
                 app:layout_constraintTop_toBottomOf="@+id/txt_medicamento" />
+========
+                app:layout_constraintBottom_toTopOf="@+id/button"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.357"
+                app:layout_constraintStart_toEndOf="@+id/txt_habitacion" />
+>>>>>>>> origin/main:Hospitalbloom/app/src/main/res/layout/activity_editar_pacientes.xml
 
             <EditText
                 android:id="@+id/txt_habitacion"
                 android:layout_width="173dp"
                 android:layout_height="48dp"
-                android:layout_marginStart="30dp"
-                android:layout_marginTop="36dp"
                 android:layout_marginEnd="13dp"
-                android:layout_marginBottom="46dp"
                 android:background="#288CE866"
                 android:ems="10"
                 android:hint="Habitacion"
                 android:inputType="text"
                 android:textStyle="bold"
+<<<<<<<< HEAD:Hospitalbloom/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/activity_agregar_paciente.xml
                 app:layout_constraintBottom_toTopOf="@+id/btn_agregar"
                 app:layout_constraintEnd_toStartOf="@+id/txt_cama"
                 app:layout_constraintStart_toStartOf="parent"
@@ -301,6 +315,142 @@
                 app:layout_constraintBottom_toTopOf="@+id/txt_nombres"
                 app:layout_constraintEnd_toStartOf="@+id/imageView9"
                 app:layout_constraintHorizontal_bias="1.0"
+========
+                app:layout_constraintBottom_toTopOf="@+id/button"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.071"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.754" />
+
+            <EditText
+                android:id="@+id/txt_enfermedad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="100dp"
+                android:background="#288CE866"
+                android:ems="10"
+                android:hint="Enfermedad"
+                android:inputType="text"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/txt_cama"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_edad"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <EditText
+                android:id="@+id/txt_edad"
+                android:layout_width="113dp"
+                android:layout_height="36dp"
+                android:background="#288CE866"
+                android:ems="10"
+                android:hint="Edad"
+                android:inputType="number"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/button"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.125"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.473" />
+
+            <EditText
+                android:id="@+id/txt_fecha_nacimiento"
+                android:layout_width="191dp"
+                android:layout_height="37dp"
+                android:layout_marginStart="44dp"
+                android:layout_marginEnd="49dp"
+                android:layout_marginBottom="60dp"
+                android:background="#288CE866"
+                android:ems="10"
+                android:hint="Fecha de Nacimiento"
+                android:inputType="date"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/txt_enfermedad"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.6"
+                app:layout_constraintStart_toEndOf="@+id/txt_edad" />
+
+            <EditText
+                android:id="@+id/txt_apellidos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="208dp"
+                android:layout_marginEnd="6dp"
+                android:background="#288CE866"
+                android:ems="10"
+                android:hint="Apellidos"
+                android:inputType="text"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/imageView9"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/txt_nombres"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="7dp"
+                android:layout_marginBottom="40dp"
+                android:background="#288CE866"
+                android:ems="10"
+                android:hint="Nombres"
+                android:inputType="text"
+                android:textColorLink="#090909"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/txt_apellidos"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.52"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="84dp"
+                android:layout_marginEnd="34dp"
+                android:text="Editar Datos"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/imageView24"
+                app:layout_constraintStart_toEndOf="@+id/imageView23"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="800dp"
+                android:text="TextView"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#288CE8"
+                android:text="Guardar cambios"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.837" />
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="165dp"
+                android:layout_height="172dp"
+                app:layout_constraintEnd_toStartOf="@+id/textView7"
+>>>>>>>> origin/main:Hospitalbloom/app/src/main/res/layout/activity_editar_pacientes.xml
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.833"
